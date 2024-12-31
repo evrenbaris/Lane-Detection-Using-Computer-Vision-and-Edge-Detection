@@ -14,7 +14,7 @@ This project implements a basic lane detection system for roads using computer v
 - **Python**
   - OpenCV: For image processing.
   - NumPy: For mathematical operations.
-  - Matplotlib: For visualization.
+  - Matplotlib: For visualization..
 
 ## How to Run
 1. Clone the repository:
