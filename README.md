@@ -19,4 +19,4 @@ This project implements a basic lane detection system for roads using computer v
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lane-detection.git
+   git clone https://github.com/evrenbaris/lane-detection.git
